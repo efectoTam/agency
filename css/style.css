@@ -96,3 +96,23 @@ header nav ul li a:hover {
 	background-color: #FF0165;
 	font-weight: bold;
 }
+
+/*Section banner*/
+.banners{
+	background-color: #FF0165;
+}
+
+.banner{
+	width: 19%;
+	height: 70px;
+	float: left;
+	background-color: #E31B5A;
+	margin-right: 1px;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 20px; 
+}
+
+.banner:hover{
+	background-color: #CB1A55;
+}
